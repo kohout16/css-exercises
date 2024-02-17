@@ -1,0 +1,24 @@
+
+/* class */
+.odd-numbers {
+    background-color: #eb4c79;
+    font-family:Verdana, DejaVu Sans, sans-serif ;
+}
+
+/* id */
+#id1 {
+    color: #2f2d91;
+    font-size: 36px;
+}
+
+/* id and class element */
+#id2 {
+    font-size: 24px;
+}
+
+/* another id */
+#id3 {
+    background-color: #0cb43f;
+    font-size: 24px;
+    font-weight: bold;
+}
